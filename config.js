@@ -4,7 +4,7 @@ const CONFIG = {
 
     introDesc: `Tớ có điều muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa`,
 
-    btnIntro: 'Hỏi đi',
+    btnIntro: 'Oki',
 
     title: 'cậu yêu tớ không nào',
 
@@ -18,7 +18,7 @@ const CONFIG = {
 
     btnReply: 'Gửi cho tớ <3',
 
-    reply: 'Vì cậu rất ngầu và đẹp trai >_<',
+    reply: '',
 
     mess: 'Tớ biết mà^^ yêu cậu nhiều:3',
 
