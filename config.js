@@ -18,7 +18,7 @@ const CONFIG = {
 
     btnReply: 'Gửi cho tớ <3',
 
-    reply: '',
+    reply: 'tớ khum biết',
 
     mess: 'Tớ biết mà^^ yêu cậu nhiều:3',
 
