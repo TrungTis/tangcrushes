@@ -1,6 +1,6 @@
 const CONFIG = {
 
-    introTitle: 'Này cậu!',
+    introTitle: 'Này cậu!!!',
 
     introDesc: `Tớ có điều muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa`,
 
