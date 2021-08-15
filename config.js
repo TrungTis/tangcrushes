@@ -18,11 +18,11 @@ const CONFIG = {
 
     btnReply: 'Gửi cho tớ <3',
 
-    reply: '',
+    reply: 'Tớ cũng thế',
 
     mess: 'Tớ biết mà^^ yêu cậu nhiều:3',
 
-    messDesc: 'Vậy từ giờ trở đi chúng ta là người yêu của nhau rôi nha.',
+    messDesc: 'Vậy từ giờ trở đi chúng ta là người yêu của nhau rồi nha.',
 
     btnAccept: 'Okiiiii lun <3',
 
